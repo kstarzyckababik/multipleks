@@ -20,5 +20,6 @@ public class Main {
         Ticket ticket = screening1.purchaseTicket(customer, 1);
 
         customer.printTickets();
+        System.out.println(" ");
     }
 }
